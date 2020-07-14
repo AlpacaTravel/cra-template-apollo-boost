@@ -1,8 +1,19 @@
 {
   "name": "@alpaca-travel/cra-template-apollo-boost",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
   "repository": "https://github.com/AlpacaTravel/cra-template-apollo-boost.git",
   "author": "Cam Manderson <cam@alpaca.travel>",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "alpaca"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
