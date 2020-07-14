@@ -23,7 +23,8 @@ function App() {
   });
 
   if (loading) return <p>Loading...</p>;
-  if (error) return <p>Error :(</p>;
+  if (error)
+    return <p>Error :(, did you update your .env with your API Key?</p>;
 
   return (
     <div>
