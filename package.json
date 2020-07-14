@@ -1,6 +1,6 @@
 {
   "name": "@alpaca-travel/cra-template-apollo-boost",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "https://github.com/AlpacaTravel/cra-template-apollo-boost.git",
   "author": "Cam Manderson <cam@alpaca.travel>",
   "license": "MIT",
